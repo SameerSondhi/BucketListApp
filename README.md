@@ -34,11 +34,10 @@ Ready features:
 
 
 ## Screen Shots
-![Screenshot](Homepage.png)
-![Screenshot](Login_Registration.png)
-![Screenshot](Store.png)
-![Screenshot](Cart.png)
-![Screenshot](Checkout.png)
+![Screenshot](LoginRegistration.png)
+![Screenshot](BucketList.png)
+![Screenshot](AddItem.png)
+![Screenshot](ItemDetail.png)
 
 
 ## Usage
