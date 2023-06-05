@@ -34,10 +34,10 @@ Ready features:
 
 
 ## Screen Shots
-![Screenshot](LoginRegistration.png)
-![Screenshot](BucketList.png)
-![Screenshot](AddItem.png)
-![Screenshot](ItemDetail.png)
+![Screenshot]([LoginRegistration.png](https://github.com/SameerSondhi/BucketListApp/blob/main/BucketList/LoginRegistration.png))
+![Screenshot]([BucketList.png](https://github.com/SameerSondhi/BucketListApp/blob/main/BucketList/BucketList.png))
+![Screenshot]([AddItem.png](https://github.com/SameerSondhi/BucketListApp/blob/main/BucketList/AddItem.png))
+![Screenshot]([ItemDetail.png](https://github.com/SameerSondhi/BucketListApp/blob/main/BucketList/ItemDetail.png))
 
 
 ## Usage
