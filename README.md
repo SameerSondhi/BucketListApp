@@ -41,7 +41,7 @@ Ready features:
 
 
 ## Usage
-This project is a very personal web application 
+This project is a single page application, mainly optimized for personal use.
 
 
 ## Project Status
